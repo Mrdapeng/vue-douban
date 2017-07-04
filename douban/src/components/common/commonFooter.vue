@@ -63,6 +63,6 @@
   }
 
   .nav ul li a.router-link-active {
-    background-color: #ccc;
+    color: #ccc;
   }
 </style>

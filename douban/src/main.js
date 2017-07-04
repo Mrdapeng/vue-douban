@@ -6,7 +6,7 @@ import router from './router'
 import  store from './vuex/store'
 require('./assets/js/rem')
 Vue.config.productionTip = false
-/* eslint-disable no-new */
+/* eslint-disable no-new */22
 global.API_PROXY = 'https://bird.ioliu.cn/v1/?url='
 new Vue({
   el: '#app',

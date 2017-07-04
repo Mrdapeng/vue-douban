@@ -21,9 +21,6 @@
 
       }
     },
-    mounted(){
-      this.$store.dispatch('changeTitle ',['movie','rgb(222,122,122)','Main']);
-    },
     methods: {},
     components: {
       commonHeader,
